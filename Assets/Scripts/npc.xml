@@ -1,0 +1,4 @@
+<messages uid="6">
+  <message uid="1">Hello! I see you get along great with your horse. I just finished preparing for the race.<answers><answer auid="2" muid="4" action="none">Race? </answer><answer auid="3" muid="-1" action="dialogue end">I'm not interested</answer></answers></message>
+  <message uid="4">Yes! Do you want to test your abilities?<answers><answer auid="5" muid="-1" action="start race">Let's go</answer><answer auid="6" muid="-1" action="dialogue end">I'm not interested</answer></answers></message>
+</messages>
